@@ -8,11 +8,20 @@
   "if"
   "else"
   "while"
+  "set"
+  "cast"
 ] @keyword
 
 (type_identifier) @type
 
 (integer_literal) @number
+
+(boolean_literal) @boolean
+
+(ident) @variable
+
+["(" ")" "{" "}"] @punctuation.bracket
+[";" "," ":"] @punctuation.delimiter
 
 [
   (string_literal)
