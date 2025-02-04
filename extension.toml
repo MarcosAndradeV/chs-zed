@@ -1,0 +1,11 @@
+id = "chs"
+name = "CHS extension"
+version = "0.0.1"
+schema_version = 1
+authors = ["Marcos V. Andrade Almeida"]
+description = "chs extension"
+repository = "TODO"
+
+[grammars.chs]
+repository = "https://github.com/MarcosAndradeV/tree-sitter-chs"
+rev = "111ba2f7aa297b6f259db4195dfb8dbee70930f8"
