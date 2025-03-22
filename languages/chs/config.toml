@@ -1,7 +1,7 @@
 name = "CHS"
 grammar = "chs"
 path_suffixes = ["chs"]
-line_comments = ["# "]
+line_comments = ["// "]
 
 brackets = [
     { start = "'", end = "'", close = true, newline = false, not_in = ["string"] },

@@ -1,15 +1,8 @@
 [
   "fn"
   "end"
-  "use"
-  "type"
-  "syscall"
-  "distinct"
-  "if"
-  "else"
-  "while"
-  "set"
-  "cast"
+  "return"
+  "->"
 ] @keyword
 
 (type_identifier) @type
