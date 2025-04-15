@@ -8,4 +8,4 @@ repository = "TODO"
 
 [grammars.chs]
 repository = "https://github.com/MarcosAndradeV/tree-sitter-chs"
-rev = "c4fe85e4ebcd8e261656c6d7faa708dff98aee9c"
+rev = "24edef55f2f41726827ee123b8f1e73147d97dba"
